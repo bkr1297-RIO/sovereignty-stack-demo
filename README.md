@@ -1,5 +1,13 @@
 # RIO Sovereignty Stack
 
+> **⚠️ LEGACY REPOSITORY — HISTORICAL REFERENCE**
+>
+> This demo predates the canonical [`bkr1297-RIO/rio-protocol`](https://github.com/bkr1297-RIO/rio-protocol) specification. The sovereignty stack concepts (Digital Chip, Continuity Engine, RIO governance) have evolved into the full 8-stage governed execution pipeline defined in rio-protocol.
+>
+> This repo is preserved as a historical demo. For the current system, see:
+> - Protocol spec: [`rio-protocol`](https://github.com/bkr1297-RIO/rio-protocol)
+> - Non-Collapse Conformance: [`rio-protocol/tests/non-collapse/`](https://github.com/bkr1297-RIO/rio-protocol/tree/main/tests/non-collapse)
+
 A reference implementation of the sovereignty stack: a layered architecture where human preferences govern AI action, and every decision produces a verifiable receipt.
 
 ## Core Invariant
